@@ -1,0 +1,4 @@
+ 1. git status - (to check if the working directory is clean)
+ 2. git add "filename" - Files that I want to track the changes an store them in the next commit.
+ 3. git commit -m "meanigfull message"
+ 4. git status (check if it is clean)
